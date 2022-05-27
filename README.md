@@ -1,2 +1,2 @@
 # Project_1
-This is self made project according to my desktop.
+TIC TAC TOE Using HTML,CSS and JavaScript.
